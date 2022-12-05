@@ -40,7 +40,7 @@ if (isset($_REQUEST['stu-msg'])) {
                     <div class="form-group">
                         <input type="submit" value="Login" class="btn btn-primary btn-lg btn-block">
                     </div>
-                    <p><a href="#">Lost your Password?</a></p>
+                    <p><a href="admin.php">Admin Login ?</a></p>
                 </div>
             </form>
         </div>
@@ -87,7 +87,7 @@ if (isset($_REQUEST['clg-msg'])) {
                     <div class="form-group">
                         <input type="submit" value="Login" class="btn btn-primary btn-lg btn-block">
                     </div>
-                    <p><a href="#">Lost your Password?</a></p>
+                    <p><a href="admin.php">Admin Login ?</a></p>
                 </div>
             </form>
         </div>

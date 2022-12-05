@@ -1970,7 +1970,7 @@ ol {
 }
 
 .page-info-section-register {
-  height: 300px;
+  height: 350px;
 }
 
 .register-form-warp {
@@ -2317,6 +2317,7 @@ th {
 .dropdown {
   position: relative;
   display: inline-block;
+  float: right;
 }
 
 .manage-dropdown {
@@ -2333,7 +2334,7 @@ th {
 }
 
 .dropdown-content {
-  margin-top: 55px;
+  margin-top: 66px;
   display: none;
   position: absolute;
   background-color: black;
